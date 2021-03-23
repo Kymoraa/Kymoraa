@@ -10,11 +10,10 @@
 
 <!-- Social media badges-->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jackie-moraa-59786470/)
+[![Duolingo](https://img.shields.io/badge/-Duolingo-green?style=flat&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/r5cttVCY)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kymoraa/)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kymoraa/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kymoraa/)
 [![Blogspot](https://img.shields.io/badge/-Blogspot-orange?style=flat&logo=Blogger&logoColor=white)](https://uxcanvas.blogspot.com/)
-[![Duolingo](https://img.shields.io/badge/-Duolingo-green?style=flat&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/r5cttVCY)
 
 </br>
 
