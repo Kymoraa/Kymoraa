@@ -2,7 +2,7 @@
 
 <!-- Main content-->
 <p><h5>My name is Jackie Moraa, a Software Developer based in Nairobi, Kenya. </h5></p>
-<p><h5>🌱 I have some experience in Java and Python programming languages and I also have experience in design thinking, user research and material design. {Kinda stuck between the two worlds - Design & Development}</h5></p>
+<p><h5>🌱 I have some experience in Java and Python programming languages and I also have experience in design thinking, user research and material design. {Kinda stuck between the two worlds - Design & Development}. I am keen in Learning Flutter</h5></p>
 <p><h5>📚 Apart from computer languages, I also learn human languages. En este momento, estoy aprendiendo español.</p></h5>
 <p><h5>⚡ Fun fact: I am yet to be defeated in Monopoly! 😄</h5></p>
 
@@ -14,6 +14,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kymoraa/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kymoraa/)
 [![Blogspot](https://img.shields.io/badge/-Blogspot-orange?style=flat&logo=Blogger&logoColor=white)](https://uxcanvas.blogspot.com/)
+[![Medium](https://img.shields.io/badge/-Medium-blue?style=flat&logo=Medium&logoColor=white)](https://kymoraa.medium.com/)
 
 </br>
 
