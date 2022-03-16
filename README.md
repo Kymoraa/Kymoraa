@@ -4,7 +4,7 @@
 <p><h5>My name is Jackie Moraa, a Software Developer based in Nairobi, Kenya. </h5></p>
 <p><h5>🌱 I have some experience in Python and Java programming languages. I also have experience in design thinking, user research and material design. {Kinda stuck between the two worlds - Design & Development}.</h5></p>
 <p><h5>:blue_heart: I am keen on Learning. Currently learning Flutter. Follow me on Medium (link below) as I document my Flutter journey.</h5></p>
-<p><h5>📚 Apart from computer languages, I also learn human languages. En este momento, estoy aprendiendo español 🇪🇸</p></h5>
+<p><h5>📚 Apart from computer languages, I also learn human languages. En este momento, estoy aprendiendo español 🇪🇸 y German 🇩🇪 </p></h5>
 <p><h5>⚡ Fun fact: I am yet to be defeated in Monopoly! 😄</h5></p>
 
 </br>
