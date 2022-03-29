@@ -8,7 +8,7 @@
 <p><h5>⚡ Fun fact: I am yet to be defeated in Monopoly! 😄</h5></p>
 
 </br>
-<p><h5> Tools: </h5></p>
+<p><h5> Stacks: </h5></p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/>
