@@ -29,7 +29,7 @@
 
 <!-- Social media badges-->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jackie-moraa-59786470/)
-[![Duolingo](https://img.shields.io/badge/-Duolingo-green?style=flat&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/r5cttVCY)
+[![Duolingo](https://img.shields.io/badge/-Duolingo-green?style=flat&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/JackieMoraa)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kymoraa/)
 [![Blogspot](https://img.shields.io/badge/-Blogspot-orange?style=flat&logo=Blogger&logoColor=white)](https://uxcanvas.blogspot.com/)
 [![Medium](https://img.shields.io/badge/-Medium-blue?style=flat&logo=Medium&logoColor=white)](https://kymoraa.medium.com/)
