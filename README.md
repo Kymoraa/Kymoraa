@@ -17,7 +17,6 @@
 <a href="https://balsamiq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-icon.svg" alt="balsamiq" width="40" height="40"/> </a>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 
 </br>
 <p><h5> Stats: </h5></p>
