@@ -20,6 +20,9 @@
 
 </br>
 <p><h5> Stats: </h5></p>
+<!-- Activity stats-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kymoraa&" alt="kymoraa" /></p>
+<br>
 <!-- Github language stats-->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kymoraa&show_icons=true&locale=en&layout=compact" alt="kymoraa"/>
 
