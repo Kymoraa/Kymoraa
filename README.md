@@ -18,13 +18,13 @@
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>
 
-</br>
+<!-- </br>
 <p><h5> Stats: </h5></p>
 <!-- Activity stats-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kymoraa&" alt="kymoraa" /></p>
-<br>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kymoraa&" alt="kymoraa" /></p>
+<br> -->
 <!-- Github language stats-->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kymoraa&show_icons=true&locale=en&layout=compact" alt="kymoraa"/>
+<!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=kymoraa&show_icons=true&locale=en&layout=compact" alt="kymoraa"/> -->
 
 
 <p><h5> Socials: </h5></p>
