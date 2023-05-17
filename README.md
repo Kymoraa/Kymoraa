@@ -39,7 +39,7 @@
 </br>
 
 <!-- Visitors stats-->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kymoraa.visitor-badge)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kymoraa.visitor-badge) -->
 
 
 <!--
